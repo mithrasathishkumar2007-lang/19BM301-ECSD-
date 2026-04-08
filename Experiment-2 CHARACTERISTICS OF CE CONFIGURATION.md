@@ -28,16 +28,23 @@ Formula:
 
 <img width="517" height="124" alt="image" src="https://github.com/user-attachments/assets/216bfaf3-3ef4-4d12-b273-68da8dd770e6" />
 # Circuit Diagram and Model Graph:
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/3d50ee61-ba69-4ea5-92cf-53ca42d3311a" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/ced199ac-273b-4fe9-aea2-4782169a34a7" />
 
 
 
 # Tabular Column & Calculation:
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/80d5bde4-7549-4968-98ed-b8fc63c503cb" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/6e7b4b68-5dfa-4f63-85f0-bb1de286e0d2" />
 
 
 # Graph:
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/f1e4d76c-0fed-4d7d-a59b-1b9753c10580" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/93a4cd80-52d6-46e0-97db-de504fbe110e" />
 
 
 # Result:
 
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/0736cf23-5865-4a68-9d2a-b173680ba732" />
 
 
